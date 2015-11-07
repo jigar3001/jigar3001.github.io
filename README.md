@@ -1,17 +1,13 @@
-# Jekyll Modern Blog
+Grayscale Jekyll theme
+=========================
 
-A Simple, Clean and responsive modern blog for jekyll.
+Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
 
-## Attributions
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
 
-## License
-
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
-
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
-
-Changes being that I made it jekyll ready and smushed the CSS together.
+=========
+For more details, read the [documentation](http://jekyllrb.com/)
